@@ -1,0 +1,15 @@
+.App{
+  text-align: center;
+  padding: 2rem;
+  background-color: #111;
+  min-height: 100vh;
+  color: white;
+  font-family: 'Cursive';
+}
+
+.crypto-list{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}

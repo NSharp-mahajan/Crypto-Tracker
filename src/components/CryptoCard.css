@@ -1,0 +1,18 @@
+.crypto-card {
+  background: #1e1e1e;
+  color: white;
+  border-radius: 12px;
+  padding: 20px;
+  width: 220px;
+  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.crypto-card:hover {
+  transform: scale(1.05);
+}
+
+.crypto-card img {
+  height: 60px;
+  margin-bottom: 10px;
+}

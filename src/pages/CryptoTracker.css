@@ -1,0 +1,14 @@
+.tracker {
+  padding: 2rem;
+  text-align: center;
+  background: #0e0e0e;
+  color: white;
+  min-height: 100vh;
+}
+
+.crypto-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
